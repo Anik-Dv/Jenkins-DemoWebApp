@@ -11,6 +11,8 @@
 	<h2>Welcome Home page</h2>
 	
 	<a href="about.jsp"><h3>Go About page</h3></a>
+	<a href="service.jsp"><h3>Go Service page</h3></a>
+	
 	
 	<%
 		App app = new App();
